@@ -1,0 +1,9 @@
+D:\Student Sample Programs\Chap07\Name Search\Name Search\bin\Debug\Name Search.exe.config
+D:\Student Sample Programs\Chap07\Name Search\Name Search\bin\Debug\Name Search.exe
+D:\Student Sample Programs\Chap07\Name Search\Name Search\bin\Debug\Name Search.pdb
+D:\Student Sample Programs\Chap07\Name Search\Name Search\obj\Debug\Name Search.csprojResolveAssemblyReference.cache
+D:\Student Sample Programs\Chap07\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+D:\Student Sample Programs\Chap07\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+D:\Student Sample Programs\Chap07\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.Cache
+D:\Student Sample Programs\Chap07\Name Search\Name Search\obj\Debug\Name Search.exe
+D:\Student Sample Programs\Chap07\Name Search\Name Search\obj\Debug\Name Search.pdb
