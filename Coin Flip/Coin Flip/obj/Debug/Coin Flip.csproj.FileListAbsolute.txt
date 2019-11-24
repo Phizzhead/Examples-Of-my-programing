@@ -1,0 +1,19 @@
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\bin\Debug\Coin Flip.exe.config
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\bin\Debug\Coin Flip.exe
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\bin\Debug\Coin Flip.pdb
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\obj\Debug\Coin Flip.csprojResolveAssemblyReference.cache
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\obj\Debug\Coin_Flip.Form1.resources
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\obj\Debug\Coin_Flip.Properties.Resources.resources
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\obj\Debug\Coin Flip.csproj.GenerateResource.Cache
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\obj\Debug\Coin Flip.exe
+D:\Student Sample Programs\Chap02\Coin Flip\Coin Flip\obj\Debug\Coin Flip.pdb
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\bin\Debug\Coin Flip.exe.config
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\bin\Debug\Coin Flip.exe
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\bin\Debug\Coin Flip.pdb
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin Flip.csprojAssemblyReference.cache
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin_Flip.Form1.resources
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin_Flip.Properties.Resources.resources
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin Flip.csproj.GenerateResource.cache
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin Flip.csproj.CoreCompileInputs.cache
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin Flip.exe
+C:\Users\phizz\Desktop\ExamplesOfJonathanPrograming\Coin Flip\Coin Flip\obj\Debug\Coin Flip.pdb
