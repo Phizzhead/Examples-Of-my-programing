@@ -1,0 +1,19 @@
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe.config
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.pdb
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csprojResolveAssemblyReference.cache
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Form1.resources
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Properties.Resources.resources
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csproj.GenerateResource.Cache
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.exe
+D:\Student Sample Programs\Chap03\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.pdb
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe.config
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.pdb
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csprojAssemblyReference.cache
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Form1.resources
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Properties.Resources.resources
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csproj.GenerateResource.cache
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csproj.CoreCompileInputs.cache
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.exe
+D:\office school docs and sheats 2017 spring and summer\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.pdb
