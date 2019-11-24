@@ -1,0 +1,9 @@
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe.config
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.pdb
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csprojResolveAssemblyReference.cache
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.Form1.resources
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.Properties.Resources.resources
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.GenerateResource.Cache
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.exe
+D:\Student Sample Programs\Chap05\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.pdb
