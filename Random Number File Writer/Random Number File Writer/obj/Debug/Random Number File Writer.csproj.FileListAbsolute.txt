@@ -1,0 +1,19 @@
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe.config
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.pdb
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csprojResolveAssemblyReference.cache
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Form1.resources
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Properties.Resources.resources
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.GenerateResource.Cache
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.exe
+D:\Student Sample Programs\Chap05\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.pdb
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe.config
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.pdb
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csprojAssemblyReference.cache
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Form1.resources
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Properties.Resources.resources
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.GenerateResource.cache
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.CoreCompileInputs.cache
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.exe
+D:\office school docs and sheats 2017 spring and summer\project 5 programing\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.pdb
